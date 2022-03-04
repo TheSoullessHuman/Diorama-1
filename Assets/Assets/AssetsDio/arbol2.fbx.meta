@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: aacfce4359b8ab045b286e63a829757c
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 2207576649168084841
+    second: Arbol 2|AArbol 5 idle
+  - first:
+      74: -1031879235996994557
+    second: Arbol 2|Action idle
+  - first:
+      74: -3474018409682663639
+    second: Arbol 2|Action jump
+  - first:
+      74: 2088464433984640598
+    second: Arbol 2|Action walk
+  - first:
+      74: -4418628921115940884
+    second: Arbol 2|ARBOL 2 IDLE
+  - first:
+      74: -2968114084110921795
+    second: Arbol 2|Arbol 3 idle
+  - first:
+      74: -521144567272055802
+    second: Arbol 2|Arbol 4 idle2
+  - first:
+      74: -5504687829646534979
+    second: Arbol 2|Armature.001Action.005
+  - first:
+      74: -1032797518775041426
+    second: Arbol 2|Gnomo Idle
+  - first:
+      74: 6859209984667426623
+    second: Arbol 2|idle
+  - first:
+      74: 6822609682013546356
+    second: Arbol 2|idle A1
+  - first:
+      74: -8571748598103439624
+    second: Arbol 2|Jump
+  - first:
+      74: 5228166582201670579
+    second: Arbol 2|movement q
+  - first:
+      74: 1380120907905708925
+    second: Arbol 2|PlaneAction
+  - first:
+      74: 5258821777426133843
+    second: Arbol 2|PlaneAction.002
+  - first:
+      74: 5992079713595775167
+    second: Arbol 2|SphereAction
+  - first:
+      74: -2642551980326877110
+    second: Arbol 2|walking c
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 1234ee77706bd8f4fa557c03e8d786db, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
