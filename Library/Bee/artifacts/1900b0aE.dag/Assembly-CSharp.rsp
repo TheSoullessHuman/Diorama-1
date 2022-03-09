@@ -347,6 +347,8 @@
 "Assets/Assets/OMO GNoMo1.cs"
 "Assets/Assets/OMO.cs"
 "Assets/Assets/OMOGNOMO.cs"
+"Assets/Assets/Raycast.cs"
+"Assets/Assets/target.cs"
 -langversion:8.0
 
 /deterministic
