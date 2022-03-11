@@ -25,7 +25,7 @@ public class target : MonoBehaviour
 
     private void OnMouseExit()
     {
-        renderer.material.color = Color.white;
+        renderer.material.color = Color.grey;
 
     }
 
